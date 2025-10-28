@@ -1,0 +1,5 @@
+{
+  "name": "Axiomtech AI Assistant",
+  "description": "An intelligent chat assistant for e-commerce and finance, providing product information and real-time stock data analysis on behalf of Axiomtech.",
+  "requestFramePermissions": []
+}
